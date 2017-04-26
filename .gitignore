@@ -1,0 +1,12 @@
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+backgrounds/Makefile
+backgrounds/Makefile.in
+backgrounds/fedora-workstation-backgrounds.xml
+config.log
+config.status
+configure
+install-sh
+missing

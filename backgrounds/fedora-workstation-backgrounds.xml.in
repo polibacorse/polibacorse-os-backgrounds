@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Droplet On Pebble</name>
+        <filename>@prefix@/share/backgrounds/fedora-workstation/droplet-on-pebble.jpg</filename>
+        <options>zoom</options>
+
+        <author>skamath</author>
+        <email>design-team@lists.fedoraproject.org</email>
+        <license>CC-BY-SA 4.0</license>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Winter in Bohemia</name>
+        <filename>@prefix@/share/backgrounds/fedora-workstation/winter-in-bohemia.png </filename>
+        <options>zoom</options>
+
+        <author>Helena Bartosova</author>
+        <email>design-team@lists.fedoraproject.org</email>
+        <license>CC-BY-SA 4.0</license>
+    </wallpaper>
+
+</wallpapers>
