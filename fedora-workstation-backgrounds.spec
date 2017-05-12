@@ -1,7 +1,7 @@
 Name: fedora-workstation-backgrounds
 Version: 1.0
 Release: 1%{?dist}
-Summary: Desktop backgrounds packaged with the GNOME desktop
+Summary: Desktop backgrounds for Fedora Workstation
 
 License: CC-BY-SA
 URL: https://pagure.io/fedora-design/fedora-workstation-backgrounds
