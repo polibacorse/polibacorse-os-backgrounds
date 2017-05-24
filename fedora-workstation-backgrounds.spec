@@ -1,5 +1,5 @@
 Name: fedora-workstation-backgrounds
-Version: 1.0
+Version: 1.1
 Release: 1%{?dist}
 Summary: Desktop backgrounds for Fedora Workstation
 
@@ -30,5 +30,5 @@ wallpapers for Fedora Workstation.
 %{_datadir}/backgrounds/*
 
 %changelog
-* Wed Apr 26 2017 Ryan Lerch <rlerch@redhat.com> - 1.0-1
+* Wed May 24 2017 Ryan Lerch <rlerch@redhat.com> - 1.1-1
 - Initial Release
