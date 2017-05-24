@@ -3,9 +3,9 @@ Version: 1.0
 Release: 1%{?dist}
 Summary: Desktop backgrounds for Fedora Workstation
 
-License: CC-BY-SA
+License: CC-BY-SA and CC-BY and CC0
 URL: https://pagure.io/fedora-design/fedora-workstation-backgrounds
-Source0: https://releases.pagure.org/fedora-design/%{name}-%{version}.tar.gz
+Source0: https://releases.pagure.org/fedora-design/%{name}/%{name}-%{version}.tar.gz
 
 BuildArch: noarch
 
