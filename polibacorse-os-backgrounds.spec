@@ -8,6 +8,11 @@ URL: https://github.com/polibacorse/polibacorse-os-backgrounds
 
 BuildArch: noarch
 
+%global commit e6dfcf63292c2bd92fd34eebd22a51dd7d4bebab
+%global gittag v1.0
+%global shortcommit %(c=%{commit}; echo ${c:0:7})
+Source0: https://github.com/corsaroquad/%{name}/archive/%{commit}/%{name}-%{shortcommit}.tar.gz
+
 %description
 The polibacorse-os-backgrounds package contains the standard wallpapers for
 Poliba Corse OS.
