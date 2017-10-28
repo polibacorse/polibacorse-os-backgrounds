@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>PC5-16k</name>
+        <filename>@prefix@/share/backgrounds/polibacorse-os/pc5-16k.png </filename>
+        <options>zoom</options>
+        <author></author>
+        <email></email>
+        <license>CC-BY-SA 4.0</license>
+    </wallpaper>
+</wallpapers>
