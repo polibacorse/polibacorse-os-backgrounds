@@ -3,7 +3,7 @@ Version: 1.0
 Release: 1%{?dist}
 Summary: Desktop backgrounds for Poliba Corse OS
 
-License: CC-BY-SA and CC-BY and CC0
+License: CC-BY-SA
 URL: https://github.com/polibacorse/polibacorse-os-backgrounds
 
 BuildArch: noarch
@@ -21,6 +21,7 @@ Poliba Corse OS.
 %setup -q
 
 %build
+./autogen.sh
 %configure
 %make_build
 
