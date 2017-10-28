@@ -1,3 +1,3 @@
-# fedora-workstation-backgrounds
+# polibacorse-os-backgrounds
 
-The standard backgrounds in Fedora Workstation
+The standard backgrounds in Poliba Corse OS
