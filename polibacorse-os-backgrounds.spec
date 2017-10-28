@@ -5,7 +5,6 @@ Summary: Desktop backgrounds for Poliba Corse OS
 
 License: CC-BY-SA and CC-BY and CC0
 URL: https://github.com/polibacorse/polibacorse-os-backgrounds
-Source0: https://releases.pagure.org/fedora-design/%{name}/%{name}-%{version}.tar.gz
 
 BuildArch: noarch
 
